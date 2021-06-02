@@ -9,6 +9,36 @@ body {
 h1 {
 	font-size: 32px;
   font-family: Palatino, 'Palatino Linotype', serif;
-  color: rgb(23, 32, 163);
+  color: rgb(180, 50, 11);
 }
 
+h2 {
+	font-size: 56px;
+}
+
+
+.hero {
+	padding: 250px 0;
+	margin: 30px;
+  color: #ffffff;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url("background_main.jpg");
+  background-size: cover;
+}
+
+
+
+p {
+  font-size: 2rem
+}
+
+.hero a {
+	color: #0c7994e5;
+	font-size: 1.25em;
+	text-decoration: none;
+}
+
+
+#footer {
+  font-size: 0.75rem;
+}
