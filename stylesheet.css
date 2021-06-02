@@ -39,6 +39,11 @@ p {
 	text-decoration: none;
 }
 
+.btr {
+	color: #15b82be5;
+	font-size: 1.5rem;
+	display: flex
+}
 
 #footer {
   font-size: 1rem;
